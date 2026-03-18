@@ -80,6 +80,7 @@ ________________________________________
 ________________________________________
 # Output (Attach Screenshots)
 •	Console connection to router<br>
+<img width="1919" height="790" alt="image" src="https://github.com/user-attachments/assets/fd2e34ba-c9b8-41a2-89cb-e09fab738d0d" />
 
 •	Running configuration before and after<br>
 <img width="1391" height="876" alt="image" src="https://github.com/user-attachments/assets/1e1b5ae5-4414-4db8-84fd-39c1dbf603ca" />
@@ -91,6 +92,7 @@ ________________________________________
 <img width="1919" height="895" alt="image" src="https://github.com/user-attachments/assets/2e1e2e8e-9de9-427a-806a-eae3a1dbc761" />
 
 •	Saved configuration in NVRAM and flash<br>
+
 ________________________________________
 # Result
 The router was successfully configured with hostname, banner, encrypted passwords, and secure console access. The configuration was verified and saved to NVRAM and flash, ensuring persistence across reboots.
